@@ -39,24 +39,29 @@ b.  KCL:
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
+<img width="1280" height="1048" alt="image" src="https://github.com/user-attachments/assets/d52f0ba6-1e40-4b40-b697-91245f4e0a9f" />
+
 
 CIRCUIT DIAGRAM:
+<img width="1201" height="999" alt="image" src="https://github.com/user-attachments/assets/6c6c3272-19b8-4450-a936-be8df0734231" />
 
 
 a.   KVL:
- 
+ Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
 
 
 b.  KCL:
- 
+ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
-Calculation:
+
 
 a.   KVL:
- 
+ <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6892fe76-997f-4596-8ebf-438a9cf1a31a" />
+
 
 
 b.  KCL:
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/76a24681-def3-4161-94c4-cd20e5adfb0a" />
 
 
 
